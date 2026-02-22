@@ -59,10 +59,13 @@ This project focuses on designing a STEMS based Formula In Schools Car. The proj
 ------------------------
 Sometimes traditional approaches fail always think out of the box.
 
-
 Complex systems can break focus on simpler more reliable designs.
 
 Make more than one versions test different things on different versions apply what you learned from all into the final project
 
 
+![MarkhorRacer (2)](https://github.com/user-attachments/assets/74c72cc7-fa5f-49c6-9912-26db6beaca1a)
+
+
+![MarkhorRacer](https://github.com/user-attachments/assets/df9da423-a636-498f-a484-f4b251e3305b)
 
